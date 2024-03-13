@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "唐健"
+title                    : "liuxinrui"
 description              : "电磁无损检测"
-repository               : "tangjyan/tangjyan.github.io"
-google_scholar_stats_use_cdn : false
+repository               : "liuxinruiyay/liuxinruiyay.github.io"
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -27,7 +27,7 @@ author:
   location         : "湖北 武汉"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Sl0BI_IAAAAJ"
   email            : "tangj@hust.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
