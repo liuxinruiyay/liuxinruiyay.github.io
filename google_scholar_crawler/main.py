@@ -24,3 +24,12 @@ shieldio_data = {
 
 with open(f'results/gs_data_shieldsio.json', 'w') as outfile:
     json.dump(shieldio_data, outfile, ensure_ascii=False)
+
+shieldio_data_hindex = {
+  "schemaVersion": 1,
+  "label": "hindex",
+  "message": f"{author['hindex']}",
+}
+
+with open(f'results/gs_data_shieldsio_hindex.json', 'w') as outfile:
+    json.dump(shieldio_data_hindex, outfile, ensure_ascii=False)
